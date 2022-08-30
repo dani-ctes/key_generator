@@ -11,7 +11,7 @@ with open('keys.csv') as f:
 
 fernet = Fernet(csv_key)
 
-message = 'some_text_to_encrypt'
+message = 'your_pass.22/02/2030'
 
 encMessage = fernet.encrypt(message.encode())
 
