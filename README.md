@@ -89,11 +89,17 @@
    ```sh
    git clone https://github.com/dani-ctes/key_generator.git
    ```
-2. Install requirement
+2. Create environment and run it
+   ```sh
+   python -m venv env_x
+   source ./activate
+   ```
+3. Install requirement
+
    ```sh
    pip install -r requierement.txt
    ```
-3. Run
+4. Run
    ```sh
    python key_generator.py
    ```
