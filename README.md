@@ -101,7 +101,8 @@
    ```
 4. Run
    ```sh
-   python key_generator.py
+   python descencrypted_text.py
+   python encrypted_text.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
