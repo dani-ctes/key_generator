@@ -13,7 +13,7 @@ with open('keys.csv') as f:
 fernet = Fernet(csv_key)
 print('Key obtenida: ', fernet)
 
-text = b'gAAAAABi-_RlkSDyFgnUHNOZuZFMFMErcKmIFLWMIGrE1L68FgQIjFHRh-2KI4_12VFv02eog1k06b5k5QYDAL2bPlhjErTdfwC188YzThwmA_b94WJD3KY='
+text = b'gAAAAABjDY49F4NG5PBig81pzZrqIAQ_JCscTDhfRPNtOC6kjDIZzcK5Gl-kprLvPp47zIKM3oWLa0PkGUJUJ-RL3fqhIHAtEHBOmO5zXD_3WB6HzzKIm7E='
 
 
 
