@@ -26,7 +26,7 @@
 <h3 align="center">KEY GENERATOR</h3>
 
   <p align="center">
-    Key Generator, its function is to generate a encrypted key, with the goal to use this on app of security application.
+    Key Generator, its function is to generate a encrypted key, with the goal to use this on app of security.
     <br />
     <a href="https://github.com/dani-ctes/key_generator"><strong>Explore the docs »</strong></a>
     <br />
